@@ -7,7 +7,7 @@ Useful tips and resources for preparing for exam.
 | Order | Name | Link |
 |--- | ----- | ----- |
 | 1 | A Deep Dive into XXE | https://www.synack.com/blog/a-deep-dive-into-xxe-injection/ |
-| 2 | Testing and Exploiting Java Deserialization | https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2 |
+| 2 | Testing and Exploiting Java Deserialization | https://afine.com/testing-and-exploiting-java-deserialization-in-2021 |
 | 3 | Understanding Java Deserialization | https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/ |
 | 4 | Exploiting_and_Preventing_Deserialization_Vulnerabilities | https://owasp.org/www-chapter-vancouver/assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf |
 | 5 | PHP Magic Tricks Type Juggling | https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf |
